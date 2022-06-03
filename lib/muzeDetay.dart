@@ -14,7 +14,7 @@ class MuzeDetay extends StatefulWidget {
 
 class _MuzeDetayState extends State<MuzeDetay> {
 
-  Color appbarRengi = Color(0xffb74093);
+  Color appbarRengi = Color(0xFF06151E);
   late PaletteGenerator _generator;
 
   @override

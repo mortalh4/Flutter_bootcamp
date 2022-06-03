@@ -27,8 +27,8 @@ class MyApp  extends StatelessWidget {
                   width: MediaQuery.of(context).size.width,
                   decoration: BoxDecoration(
                     image: DecorationImage(
-                        image: NetworkImage(
-                          "https://www.upload.ee/image/14169344/WhatsApp_Image_2022-05-24_at_21.38.12.jpeg",
+                        image: AssetImage(
+                          'images/app_giris_sayfasi-01.png',
                         ),
                         fit: BoxFit.cover),
                   ),
